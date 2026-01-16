@@ -1,0 +1,85 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    color:#2F5E9E;
+    margin-top: 30px;;
+    margin-bottom:20px;
+    font-size: 3rem;
+}
+.events-list1 {
+    display: flex;
+}
+.event1,
+.event2,
+.event3,
+.event4,
+.event5,
+.event6 {
+    height: 200px;
+    width: 500px;
+    margin: 20px 0px 0px 20px;
+}
+.event1 a,
+.event2 a,
+.event3 a,
+.event4 a,
+.event5 a,
+.event6 a {
+    color: #2F5E9E;
+    font-size: 1.7rem;
+    margin-top: 50px;
+    text-decoration: none;
+}
+
+.date1,
+.date2,
+.date3,
+.date4,
+.date5,
+.date6 {
+    color: rgb(104, 103, 103);
+    margin: 10px 0px 0px 0px;
+}
+
+.info1,
+.info2,
+.info3,
+.info4,
+.info5,
+.info6 {
+    color: black;
+    margin: 5px 0px 0px 0px;
+}
+
+.view1 a,
+.view2 a,
+.view3 a,
+.view4 a,
+.view5 a,
+.view6 a {
+    font-size: 1.2rem;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.events-list2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.info6 {
+    font-size: 1rem;
+}
+h2{
+    margin:20px 0px 30px 30px;
+}
+.links a{
+    color:black;
+    text-decoration: underline;
+    font-size: 1.2rem;
+    margin:0px 0px 0px 30px;
+}
