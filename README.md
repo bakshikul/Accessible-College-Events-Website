@@ -24,5 +24,41 @@
 ├── eve1.js             # Event-specific JavaScript logic<br>
 ├── assets/             # Images, icons, etc. (optional)<br>
 └── README.md           # Project documentation<br>
+</p><br>
+<h1>📋 How the Registration Form Works</h1>
+<ol>
+  <li>User fills out the registration form</li>
+  <li>HTML5 validation checks required fields</li>
+  <li>JavaScript prevents page reload</li>
+<li>On successful validation:
+➱ Form is reset
+➱ Success message is displayed</li>
+</ol>
+<br>
+<h1>How to Run the Project Locally</h1>
+<ol>
+  <li>Clone the repository:</li>
+  <li>Navigate to the project folder:<br>
+  cd college-events-website
+</li>
+  <li>Open index.html in any modern browser</li>
+</ol>
+<h1>📈 Future Enhancements</h1>
+<ul>
+  <li>Add backend integration (Node.js / Firebase)</li>
+  <li>Store registrations in a database</li>
+  <li>Improve accessibility (ARIA roles, keyboard navigation)</li>
+  <li>Add admin dashboard for event management</li>
+</ul><br>
+<h1>🤝 Contributing</h1>
+<p>Contributions are welcome.</p><br>
+<p>Feel free to fork the repository and submit a pull request.</p><br>
+<h1>📄 License</h1>
+<p>This project is open-source and available under the MIT License.</p><br>
+<h1>👤 Author</h1>
+<p>Kul Bakshi<br>
+Student | Frontend Developer.</p>
 
-</p>
+
+
+
