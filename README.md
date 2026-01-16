@@ -30,14 +30,16 @@
   <li>User fills out the registration form</li>
   <li>HTML5 validation checks required fields</li>
   <li>JavaScript prevents page reload</li>
-<li>On successful validation:
-➱ Form is reset
+<li>On successful validation:<br>
+➱ Form is reset<br>
 ➱ Success message is displayed</li>
 </ol>
 <br>
 <h1>How to Run the Project Locally</h1>
 <ol>
-  <li>Clone the repository:</li>
+  <li>Clone the repository:<br>
+  https://github.com/bakshikul/Accessible-College-Events-Website.git
+  </li>
   <li>Navigate to the project folder:<br>
   cd college-events-website
 </li>
@@ -51,7 +53,7 @@
   <li>Add admin dashboard for event management</li>
 </ul><br>
 <h1>🤝 Contributing</h1>
-<p>Contributions are welcome.</p><br>
+<p>Contributions are welcome.</p>
 <p>Feel free to fork the repository and submit a pull request.</p><br>
 <h1>📄 License</h1>
 <p>This project is open-source and available under the MIT License.</p><br>
