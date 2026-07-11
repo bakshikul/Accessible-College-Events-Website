@@ -1,5 +1,6 @@
 # 🎓Accessible-College-Events-Website
 <p>A responsive and user-friendly College Events Website that displays upcoming events and allows users to register through a validated registration form. The project is built using HTML, CSS, and JavaScript, with clean separation of concerns for structure, styling, and behavior.</p><br>
+<a href = "https://college-events-website-bakshikul.netlify.app/">Visit</a>
 <h1>🚀 Features</h1>
 <ul>
   <li>📅 Display of college events</li>
